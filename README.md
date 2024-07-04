@@ -5,3 +5,15 @@ Description : DreamStay is hotel booking website through which user user can eas
 REACT FOR THE FRONTEND
 TAILWIND FOR THE CSS
 FONT FROM GOOGLE FONTS
+
+"
+HI
+I
+RAKESH
+MALLICK
+FOUNDER
+OF
+THE
+SITE
+
+"
