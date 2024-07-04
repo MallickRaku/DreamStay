@@ -1,0 +1,48 @@
+/* .payementPortal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.payementPortal .paymentBox {
+  position: relative;
+  width: 60%;
+  min-height: 80%;
+  background-color: #fff;
+  z-index: 1;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+.totalDiv {
+  border-top: 2px solid silver;
+}
+.paymentBox button {
+  position: absolute;
+  padding: 10px 20px;
+  border: 0;
+  outline: 0;
+  border-radius: 10px;
+  font-weight: 600;
+  background-color: #4ba7d9;
+  color: #fff;
+}
+.closeIcon {
+  position: absolute;
+  font-size: 20px;
+  top: 5%;
+  right: 3%;
+} */

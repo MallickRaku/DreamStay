@@ -1,0 +1,40 @@
+/* .loginPage,
+.signupPage {
+  height: 100vh;
+  background-color: #a4243b;
+} */
+/* 
+.loginPage img,
+.signupPage img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+/* .signupBox,
+.loginBox {
+  width: 80%;
+  height: 60%;
+  padding: 10px;
+  background-color: rgb(245, 242, 242);
+  border-radius: 10px;
+} */
+
+/* .loginBox h2,
+.signupBox h2 {
+  color: #a4243b;
+  font-size: 20px;
+} */
+/* .signupBox p,
+.loginPage p {
+  text-align: center;
+  color: brown;
+  font-size: 10px;
+  font-weight: 700;
+}
+.signupBox button,
+.loginPage button {
+  width: 100%;
+  background-color: #4ba7d9;
+  border: 0;
+} */
